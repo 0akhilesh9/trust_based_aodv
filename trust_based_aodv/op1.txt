@@ -1,0 +1,4664 @@
+No: of transmissions: 500
+transmissions left: 499Source: 7Dest: 12
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 14 trrep: 3
+transmissions left: 498Source: 9Dest: 4
+aodv done
+rreq: 40 rrep: 2
+trust done
+trreq: 40 trrep: 2
+transmissions left: 497Source: 1Dest: 7
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 496Source: 1Dest: 8
+aodv done
+rreq: 34 rrep: 2
+trust done
+trreq: 34 trrep: 2
+transmissions left: 495Source: 12Dest: 6
+aodv done
+rreq: 14 rrep: 1
+trust done
+trreq: 14 trrep: 1
+transmissions left: 494Source: 1Dest: 4
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 493Source: 0Dest: 11
+aodv done
+rreq: 46 rrep: 3
+trust done
+trreq: 46 trrep: 3
+transmissions left: 492Source: 0Dest: 10
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 12 trrep: 1
+transmissions left: 491Source: 11Dest: 10
+aodv done
+rreq: 23 rrep: 2
+trust done
+trreq: 23 trrep: 2
+transmissions left: 490Source: 11Dest: 1
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 15 trrep: 4
+transmissions left: 489Source: 8Dest: 4
+aodv done
+rreq: 21 rrep: 5
+trust done
+trreq: 20 trrep: 5
+transmissions left: 488Source: 13Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 487Source: 4Dest: 13
+aodv done
+rreq: 44 rrep: 3
+trust done
+trreq: 42 trrep: 3
+transmissions left: 486Source: 13Dest: 6
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 28 trrep: 4
+transmissions left: 485Source: 3Dest: 11
+aodv done
+rreq: 9 rrep: 3
+trust done
+trreq: 1 trrep: 1
+transmissions left: 484Source: 4Dest: 14
+aodv done
+rreq: 44 rrep: 4
+trust done
+trreq: 41 trrep: 4
+transmissions left: 483Source: 3Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 482Source: 2Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 481Source: 0Dest: 4
+aodv done
+rreq: 4 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 480Source: 6Dest: 9
+aodv done
+rreq: 17 rrep: 1
+trust done
+trreq: 17 trrep: 1
+transmissions left: 479Source: 3Dest: 9
+aodv done
+rreq: 9 rrep: 3
+trust done
+trreq: 9 trrep: 3
+transmissions left: 478Source: 8Dest: 7
+aodv done
+rreq: 60 rrep: 5
+trust done
+trreq: 39 trrep: 4
+transmissions left: 477Source: 13Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 476Source: 6Dest: 0
+aodv done
+rreq: 43 rrep: 6
+trust done
+trreq: 41 trrep: 6
+transmissions left: 475Source: 5Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 474Source: 6Dest: 13
+aodv done
+rreq: 3 rrep: 3
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 473Source: 9Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 472Source: 4Dest: 11
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 39 trrep: 5
+transmissions left: 471Source: 9Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 470Source: 13Dest: 2
+aodv done
+rreq: 43 rrep: 3
+trust done
+trreq: 42 trrep: 3
+transmissions left: 469Source: 6Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 468Source: 3Dest: 12
+aodv done
+rreq: 38 rrep: 5
+trust done
+trreq: 35 trrep: 5
+transmissions left: 467Source: 0Dest: 11
+aodv done
+rreq: 42 rrep: 6
+trust done
+trreq: 6 trrep: 1
+transmissions left: 466Source: 3Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 1 trrep: 1
+transmissions left: 465Source: 0Dest: 6
+aodv done
+rreq: 4 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 464Source: 10Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 463Source: 14Dest: 4
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 6 trrep: 1
+transmissions left: 462Source: 12Dest: 9
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 14 trrep: 2
+transmissions left: 461Source: 5Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 460Source: 9Dest: 7
+aodv done
+rreq: 43 rrep: 3
+trust done
+trreq: 29 trrep: 3
+transmissions left: 459Source: 14Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 458Source: 1Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 457Source: 6Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 456Source: 11Dest: 5
+aodv done
+rreq: 55 rrep: 4
+trust done
+trreq: 47 trrep: 5
+transmissions left: 455Source: 12Dest: 8
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 15 trrep: 1
+transmissions left: 454Source: 12Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 453Source: 14Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 8 trrep: 2
+transmissions left: 452Source: 13Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 10 trrep: 3
+transmissions left: 451Source: 3Dest: 5
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 450Source: 3Dest: 7
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 449Source: 1Dest: 3
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 448Source: 1Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 447Source: 5Dest: 14
+aodv done
+rreq: 60 rrep: 4
+trust done
+trreq: 25 trrep: 3
+transmissions left: 446Source: 5Dest: 2
+aodv done
+rreq: 24 rrep: 1
+trust done
+trreq: 15 trrep: 1
+transmissions left: 445Source: 11Dest: 9
+aodv done
+rreq: 23 rrep: 3
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 444Source: 7Dest: 13
+aodv done
+rreq: 45 rrep: 4
+trust done
+trreq: 10 trrep: 4
+transmissions left: 443Source: 10Dest: 6
+aodv done
+rreq: 47 rrep: 5
+trust done
+trreq: 43 trrep: 5
+transmissions left: 442Source: 7Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 441Source: 4Dest: 1
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 24 trrep: 7
+transmissions left: 440Source: 13Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 439Source: 3Dest: 11
+aodv done
+rreq: 9 rrep: 3
+trust done
+trreq: 67 trrep: 6
+transmissions left: 438Source: 1Dest: 0
+aodv done
+rreq: 66 rrep: 3
+trust done
+trreq: 58 trrep: 3
+transmissions left: 437Source: 8Dest: 14
+aodv done
+rreq: 23 rrep: 6
+trust done
+trreq: 17 trrep: 5
+transmissions left: 436Source: 8Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 2 trrep: 2
+transmissions left: 435Source: 13Dest: 2
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 42 trrep: 5
+transmissions left: 434Source: 4Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 433Source: 1Dest: 9
+aodv done
+rreq: 8 rrep: 2
+trust eror
+transmissions left: 432Source: 7Dest: 14
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 9 trrep: 3
+transmissions left: 431Source: 10Dest: 3
+aodv done
+rreq: 8 rrep: 2
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 430Source: 2Dest: 8
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 17 trrep: 3
+transmissions left: 429Source: 8Dest: 2
+aodv done
+rreq: 5 rrep: 1
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 428Source: 0Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 427Source: 11Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 426Source: 11Dest: 6
+aodv done
+rreq: 20 rrep: 2
+trust done
+trreq: 20 trrep: 2
+transmissions left: 425Source: 13Dest: 12
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 14 trrep: 2
+transmissions left: 424Source: 9Dest: 0
+aodv done
+rreq: 10 rrep: 1
+trust done
+trreq: 9 trrep: 1
+transmissions left: 423Source: 0Dest: 2
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 422Source: 10Dest: 12
+aodv done
+rreq: 45 rrep: 10
+trust done
+trreq: 42 trrep: 6
+transmissions left: 421Source: 11Dest: 9
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 420Source: 4Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 419Source: 11Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 418Source: 8Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 417Source: 6Dest: 1
+aodv done
+rreq: 47 rrep: 3
+trust done
+trreq: 45 trrep: 3
+transmissions left: 416Source: 12Dest: 4
+aodv done
+rreq: 43 rrep: 2
+trust done
+trreq: 35 trrep: 2
+transmissions left: 415Source: 11Dest: 5
+aodv done
+rreq: 55 rrep: 4
+trust done
+trreq: 36 trrep: 5
+transmissions left: 414Source: 4Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 4 trrep: 2
+transmissions left: 413Source: 14Dest: 2
+aodv done
+rreq: 31 rrep: 3
+trust done
+trreq: 12 trrep: 3
+transmissions left: 412Source: 3Dest: 14
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 411Source: 14Dest: 0
+aodv done
+rreq: 27 rrep: 5
+trust eror
+transmissions left: 410Source: 3Dest: 4
+aodv done
+rreq: 31 rrep: 5
+trust done
+trreq: 5 trrep: 2
+transmissions left: 409Source: 14Dest: 5
+aodv done
+rreq: 6 rrep: 1
+trust eror
+transmissions left: 408Source: 3Dest: 2
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 407Source: 0Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 5 trrep: 1
+transmissions left: 406Source: 8Dest: 2
+aodv done
+rreq: 27 rrep: 3
+trust done
+trreq: 47 trrep: 4
+transmissions left: 405Source: 6Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 404Source: 2Dest: 9
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 16 trrep: 2
+transmissions left: 403Source: 3Dest: 5
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 402Source: 2Dest: 6
+aodv done
+rreq: 48 rrep: 3
+trust done
+trreq: 37 trrep: 3
+transmissions left: 401Source: 14Dest: 9
+aodv done
+rreq: 29 rrep: 6
+trust done
+trreq: 9 trrep: 3
+transmissions left: 400Source: 6Dest: 5
+aodv done
+rreq: 15 rrep: 2
+trust done
+trreq: 12 trrep: 3
+transmissions left: 399Source: 11Dest: 12
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 398Source: 2Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 397Source: 5Dest: 14
+aodv done
+rreq: 14 rrep: 6
+trust done
+trreq: 24 trrep: 1
+transmissions left: 396Source: 11Dest: 0
+aodv done
+rreq: 53 rrep: 3
+trust done
+trreq: 5 trrep: 1
+transmissions left: 395Source: 9Dest: 1
+aodv done
+rreq: 42 rrep: 2
+trust done
+trreq: 39 trrep: 2
+transmissions left: 394Source: 4Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 393Source: 8Dest: 4
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 52 trrep: 4
+transmissions left: 392Source: 7Dest: 1
+aodv done
+rreq: 11 rrep: 4
+trust done
+trreq: 11 trrep: 4
+transmissions left: 391Source: 4Dest: 2
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 390Source: 12Dest: 1
+aodv done
+rreq: 14 rrep: 1
+trust done
+trreq: 14 trrep: 1
+transmissions left: 389Source: 3Dest: 6
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 388Source: 12Dest: 0
+aodv done
+rreq: 15 rrep: 1
+trust eror
+transmissions left: 387Source: 6Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 386Source: 2Dest: 4
+aodv done
+rreq: 13 rrep: 1
+trust done
+trreq: 11 trrep: 1
+transmissions left: 385Source: 6Dest: 13
+aodv done
+rreq: 47 rrep: 4
+trust done
+trreq: 31 trrep: 4
+transmissions left: 384Source: 7Dest: 4
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 383Source: 8Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 382Source: 8Dest: 3
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 39 trrep: 4
+transmissions left: 381Source: 4Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 380Source: 5Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 379Source: 3Dest: 7
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 378Source: 0Dest: 8
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 6 trrep: 1
+transmissions left: 377Source: 9Dest: 10
+aodv done
+rreq: 76 rrep: 5
+trust done
+trreq: 54 trrep: 4
+transmissions left: 376Source: 7Dest: 14
+aodv done
+rreq: 45 rrep: 5
+trust done
+trreq: 56 trrep: 6
+transmissions left: 375Source: 0Dest: 4
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 6 trrep: 1
+transmissions left: 374Source: 11Dest: 2
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 373Source: 1Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 372Source: 5Dest: 11
+aodv done
+rreq: 25 rrep: 3
+trust done
+trreq: 22 trrep: 3
+transmissions left: 371Source: 6Dest: 0
+aodv done
+rreq: 43 rrep: 6
+trust done
+trreq: 36 trrep: 6
+transmissions left: 370Source: 6Dest: 13
+aodv done
+rreq: 47 rrep: 4
+trust done
+trreq: 14 trrep: 3
+transmissions left: 369Source: 5Dest: 12
+aodv done
+rreq: 25 rrep: 3
+trust done
+trreq: 24 trrep: 3
+transmissions left: 368Source: 13Dest: 12
+aodv done
+rreq: 8 rrep: 4
+trust done
+trreq: 8 trrep: 4
+transmissions left: 367Source: 14Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 366Source: 13Dest: 8
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 11 trrep: 1
+transmissions left: 365Source: 6Dest: 8
+aodv done
+rreq: 45 rrep: 6
+trust done
+trreq: 39 trrep: 6
+transmissions left: 364Source: 1Dest: 4
+aodv done
+rreq: 32 rrep: 2
+trust done
+trreq: 28 trrep: 2
+transmissions left: 363Source: 9Dest: 11
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 1 trrep: 1
+transmissions left: 362Source: 12Dest: 2
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 43 trrep: 5
+transmissions left: 361Source: 6Dest: 10
+aodv done
+rreq: 81 rrep: 4
+trust done
+trreq: 56 trrep: 5
+transmissions left: 360Source: 9Dest: 7
+aodv done
+rreq: 43 rrep: 3
+trust done
+trreq: 27 trrep: 3
+transmissions left: 359Source: 12Dest: 3
+aodv done
+rreq: 80 rrep: 5
+trust done
+trreq: 57 trrep: 6
+transmissions left: 358Source: 13Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 357Source: 7Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 356Source: 7Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 355Source: 11Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 354Source: 1Dest: 3
+aodv done
+rreq: 4 rrep: 1
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 353Source: 9Dest: 0
+aodv done
+rreq: 76 rrep: 3
+trust done
+trreq: 33 trrep: 3
+transmissions left: 352Source: 4Dest: 14
+aodv done
+rreq: 44 rrep: 4
+trust done
+trreq: 52 trrep: 5
+transmissions left: 351Source: 1Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 350Source: 8Dest: 5
+aodv done
+rreq: 25 rrep: 3
+trust done
+trreq: 23 trrep: 3
+transmissions left: 349Source: 7Dest: 11
+aodv done
+rreq: 15 rrep: 3
+trust done
+trreq: 7 trrep: 3
+transmissions left: 348Source: 2Dest: 11
+aodv done
+rreq: 13 rrep: 1
+trust done
+trreq: 13 trrep: 1
+transmissions left: 347Source: 5Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 346Source: 14Dest: 5
+aodv done
+rreq: 31 rrep: 7
+trust done
+trreq: 29 trrep: 7
+transmissions left: 345Source: 2Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 344Source: 7Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 343Source: 14Dest: 10
+aodv done
+rreq: 9 rrep: 1
+trust done
+trreq: 9 trrep: 1
+transmissions left: 342Source: 3Dest: 11
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 341Source: 4Dest: 6
+aodv done
+rreq: 10 rrep: 1
+trust done
+trreq: 8 trrep: 1
+transmissions left: 340Source: 5Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 339Source: 11Dest: 0
+aodv done
+rreq: 23 rrep: 3
+trust done
+trreq: 23 trrep: 3
+transmissions left: 338Source: 6Dest: 3
+aodv done
+rreq: 45 rrep: 3
+trust done
+trreq: 37 trrep: 3
+transmissions left: 337Source: 3Dest: 4
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 336Source: 5Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 335Source: 7Dest: 0
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 334Source: 0Dest: 9
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 13 trrep: 3
+transmissions left: 333Source: 6Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 332Source: 2Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 331Source: 10Dest: 4
+aodv done
+rreq: 11 rrep: 6
+trust done
+trreq: 11 trrep: 6
+transmissions left: 330Source: 4Dest: 13
+aodv done
+rreq: 44 rrep: 3
+trust done
+trreq: 44 trrep: 3
+transmissions left: 329Source: 6Dest: 5
+aodv done
+rreq: 15 rrep: 2
+trust done
+trreq: 13 trrep: 2
+transmissions left: 328Source: 13Dest: 10
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 10 trrep: 2
+transmissions left: 327Source: 2Dest: 11
+aodv done
+rreq: 13 rrep: 3
+trust done
+trreq: 13 trrep: 3
+transmissions left: 326Source: 5Dest: 12
+aodv done
+rreq: 25 rrep: 3
+trust done
+trreq: 21 trrep: 3
+transmissions left: 325Source: 7Dest: 14
+aodv done
+rreq: 45 rrep: 5
+trust done
+trreq: 30 trrep: 5
+transmissions left: 324Source: 9Dest: 12
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 2 trrep: 2
+transmissions left: 323Source: 7Dest: 11
+aodv done
+rreq: 39 rrep: 6
+trust eror
+transmissions left: 322Source: 3Dest: 6
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 321Source: 8Dest: 0
+aodv done
+rreq: 21 rrep: 9
+trust done
+trreq: 20 trrep: 9
+transmissions left: 320Source: 6Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 18 trrep: 2
+transmissions left: 319Source: 0Dest: 5
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 318Source: 6Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 317Source: 10Dest: 8
+aodv done
+rreq: 10 rrep: 3
+trust done
+trreq: 10 trrep: 3
+transmissions left: 316Source: 1Dest: 14
+aodv done
+rreq: 26 rrep: 7
+trust done
+trreq: 23 trrep: 5
+transmissions left: 315Source: 1Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 314Source: 7Dest: 3
+aodv done
+rreq: 13 rrep: 2
+trust done
+trreq: 9 trrep: 2
+transmissions left: 313Source: 1Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 312Source: 11Dest: 2
+aodv done
+rreq: 55 rrep: 4
+trust done
+trreq: 60 trrep: 5
+transmissions left: 311Source: 1Dest: 10
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 310Source: 11Dest: 3
+aodv done
+rreq: 47 rrep: 10
+trust done
+trreq: 27 trrep: 7
+transmissions left: 309Source: 14Dest: 5
+aodv done
+rreq: 29 rrep: 2
+trust done
+trreq: 24 trrep: 2
+transmissions left: 308Source: 7Dest: 13
+aodv done
+rreq: 45 rrep: 4
+trust done
+trreq: 43 trrep: 4
+transmissions left: 307Source: 14Dest: 1
+aodv done
+rreq: 8 rrep: 2
+trust eror
+transmissions left: 306Source: 14Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 305Source: 5Dest: 12
+aodv done
+rreq: 25 rrep: 3
+trust done
+trreq: 25 trrep: 3
+transmissions left: 304Source: 0Dest: 12
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 9 trrep: 2
+transmissions left: 303Source: 1Dest: 0
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 302Source: 0Dest: 9
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 11 trrep: 3
+transmissions left: 301Source: 0Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 300Source: 9Dest: 8
+aodv done
+rreq: 42 rrep: 3
+trust done
+trreq: 36 trrep: 3
+transmissions left: 299Source: 6Dest: 13
+aodv done
+rreq: 8 rrep: 1
+trust done
+trreq: 7 trrep: 1
+transmissions left: 298Source: 14Dest: 8
+aodv done
+rreq: 8 rrep: 2
+Exceeded max rreq's. trust eror
+transmissions left: 297Source: 6Dest: 2
+aodv done
+rreq: 45 rrep: 3
+trust done
+trreq: 12 trrep: 3
+transmissions left: 296Source: 14Dest: 2
+aodv done
+rreq: 26 rrep: 5
+trust done
+trreq: 9 trrep: 3
+transmissions left: 295Source: 0Dest: 11
+aodv done
+rreq: 46 rrep: 3
+trust done
+trreq: 42 trrep: 3
+transmissions left: 294Source: 12Dest: 11
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 15 trrep: 1
+transmissions left: 293Source: 2Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 292Source: 8Dest: 4
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 27 trrep: 4
+transmissions left: 291Source: 8Dest: 0
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 6 trrep: 2
+transmissions left: 290Source: 1Dest: 12
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 6 trrep: 2
+transmissions left: 289Source: 13Dest: 2
+aodv done
+rreq: 8 rrep: 4
+trust done
+trreq: 22 trrep: 9
+transmissions left: 288Source: 10Dest: 12
+aodv done
+rreq: 16 rrep: 4
+trust done
+trreq: 15 trrep: 4
+transmissions left: 287Source: 7Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 286Source: 0Dest: 13
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 6 trrep: 1
+transmissions left: 285Source: 8Dest: 9
+aodv done
+rreq: 27 rrep: 4
+trust eror
+transmissions left: 284Source: 12Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 43 trrep: 4
+transmissions left: 283Source: 7Dest: 1
+aodv done
+rreq: 13 rrep: 2
+trust done
+trreq: 9 trrep: 4
+transmissions left: 282Source: 9Dest: 13
+aodv done
+rreq: 7 rrep: 3
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 281Source: 9Dest: 14
+aodv done
+rreq: 42 rrep: 4
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 280Source: 3Dest: 13
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 279Source: 3Dest: 1
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 278Source: 5Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 277Source: 10Dest: 4
+aodv done
+rreq: 46 rrep: 4
+trust done
+trreq: 11 trrep: 3
+transmissions left: 276Source: 0Dest: 6
+aodv done
+rreq: 45 rrep: 4
+trust done
+trreq: 42 trrep: 4
+transmissions left: 275Source: 3Dest: 2
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 274Source: 0Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 273Source: 7Dest: 5
+aodv done
+rreq: 13 rrep: 2
+trust done
+trreq: 13 trrep: 2
+transmissions left: 272Source: 11Dest: 4
+aodv done
+rreq: 23 rrep: 2
+trust done
+trreq: 22 trrep: 2
+transmissions left: 271Source: 0Dest: 1
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 270Source: 9Dest: 1
+aodv done
+rreq: 34 rrep: 6
+trust done
+trreq: 8 trrep: 1
+transmissions left: 269Source: 12Dest: 4
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 15 trrep: 1
+transmissions left: 268Source: 5Dest: 2
+aodv done
+rreq: 24 rrep: 1
+trust done
+trreq: 23 trrep: 1
+transmissions left: 267Source: 14Dest: 8
+aodv done
+rreq: 35 rrep: 3
+trust done
+trreq: 29 trrep: 3
+transmissions left: 266Source: 9Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 265Source: 1Dest: 3
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 264Source: 5Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 263Source: 9Dest: 8
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 10 trrep: 2
+transmissions left: 262Source: 14Dest: 7
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 13 trrep: 4
+transmissions left: 261Source: 10Dest: 4
+aodv done
+rreq: 16 rrep: 1
+trust done
+trreq: 16 trrep: 1
+transmissions left: 260Source: 2Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 259Source: 1Dest: 12
+aodv done
+rreq: 6 rrep: 2
+trust done
+trreq: 6 trrep: 2
+transmissions left: 258Source: 6Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 257Source: 14Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 256Source: 7Dest: 12
+aodv done
+rreq: 9 rrep: 4
+trust done
+trreq: 9 trrep: 4
+transmissions left: 255Source: 5Dest: 4
+aodv done
+rreq: 18 rrep: 1
+trust done
+trreq: 18 trrep: 1
+transmissions left: 254Source: 8Dest: 9
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 253Source: 11Dest: 1
+aodv done
+rreq: 21 rrep: 6
+trust done
+trreq: 17 trrep: 6
+transmissions left: 252Source: 3Dest: 2
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 251Source: 7Dest: 0
+aodv done
+rreq: 79 rrep: 4
+trust done
+trreq: 65 trrep: 4
+transmissions left: 250Source: 6Dest: 2
+aodv done
+rreq: 45 rrep: 3
+trust done
+trreq: 34 trrep: 3
+transmissions left: 249Source: 4Dest: 2
+aodv done
+rreq: 4 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 248Source: 8Dest: 3
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 49 trrep: 4
+transmissions left: 247Source: 7Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 246Source: 8Dest: 12
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 245Source: 10Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 6 trrep: 3
+transmissions left: 244Source: 12Dest: 0
+aodv done
+rreq: 39 rrep: 4
+trust done
+trreq: 34 trrep: 4
+transmissions left: 243Source: 8Dest: 4
+aodv done
+rreq: 20 rrep: 5
+trust done
+trreq: 12 trrep: 3
+transmissions left: 242Source: 9Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 241Source: 0Dest: 10
+aodv done
+rreq: 12 rrep: 1
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 240Source: 2Dest: 1
+aodv done
+rreq: 39 rrep: 6
+trust done
+trreq: 34 trrep: 4
+transmissions left: 239Source: 7Dest: 14
+aodv done
+rreq: 45 rrep: 5
+Exceeded max rreq's. trust eror
+transmissions left: 238Source: 14Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 237Source: 12Dest: 10
+aodv done
+rreq: 45 rrep: 3
+trust done
+trreq: 16 trrep: 2
+transmissions left: 236Source: 6Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 235Source: 12Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 234Source: 3Dest: 8
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 233Source: 7Dest: 8
+aodv done
+rreq: 5 rrep: 4
+trust done
+trreq: 10 trrep: 4
+transmissions left: 232Source: 5Dest: 3
+aodv done
+rreq: 24 rrep: 1
+trust done
+trreq: 22 trrep: 1
+transmissions left: 231Source: 5Dest: 13
+aodv done
+rreq: 26 rrep: 2
+Exceeded max rreq's. trust eror
+transmissions left: 230Source: 2Dest: 10
+aodv done
+rreq: 10 rrep: 1
+trust done
+trreq: 11 trrep: 2
+transmissions left: 229Source: 11Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 228Source: 2Dest: 12
+aodv done
+rreq: 9 rrep: 3
+trust done
+trreq: 6 trrep: 3
+transmissions left: 227Source: 10Dest: 3
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 8 trrep: 2
+transmissions left: 226Source: 10Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 225Source: 5Dest: 6
+aodv done
+rreq: 22 rrep: 2
+trust done
+trreq: 20 trrep: 2
+transmissions left: 224Source: 7Dest: 9
+aodv done
+rreq: 15 rrep: 3
+trust done
+trreq: 14 trrep: 3
+transmissions left: 223Source: 13Dest: 2
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 222Source: 10Dest: 13
+aodv done
+rreq: 12 rrep: 3
+trust done
+trreq: 22 trrep: 3
+transmissions left: 221Source: 2Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 220Source: 8Dest: 10
+aodv done
+rreq: 23 rrep: 6
+trust done
+trreq: 4 trrep: 1
+transmissions left: 219Source: 8Dest: 11
+aodv done
+rreq: 25 rrep: 2
+trust done
+trreq: 23 trrep: 2
+transmissions left: 218Source: 0Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 217Source: 12Dest: 14
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 14 trrep: 2
+transmissions left: 216Source: 8Dest: 1
+aodv done
+rreq: 23 rrep: 2
+trust done
+trreq: 37 trrep: 5
+transmissions left: 215Source: 0Dest: 14
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 14 trrep: 2
+transmissions left: 214Source: 10Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 213Source: 3Dest: 2
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 212Source: 12Dest: 4
+aodv done
+rreq: 43 rrep: 2
+trust done
+trreq: 21 trrep: 2
+transmissions left: 211Source: 13Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 210Source: 9Dest: 14
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 209Source: 4Dest: 13
+aodv done
+rreq: 9 rrep: 2
+trust done
+trreq: 9 trrep: 2
+transmissions left: 208Source: 14Dest: 7
+aodv done
+rreq: 72 rrep: 6
+trust done
+trreq: 63 trrep: 6
+transmissions left: 207Source: 2Dest: 12
+aodv done
+rreq: 9 rrep: 3
+trust done
+trreq: 8 trrep: 2
+transmissions left: 206Source: 14Dest: 13
+aodv done
+rreq: 37 rrep: 4
+trust done
+trreq: 35 trrep: 4
+transmissions left: 205Source: 12Dest: 7
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 16 trrep: 2
+transmissions left: 204Source: 7Dest: 13
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 203Source: 10Dest: 8
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 10 trrep: 3
+transmissions left: 202Source: 11Dest: 10
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 201Source: 4Dest: 11
+aodv done
+rreq: 13 rrep: 2
+trust done
+trreq: 13 trrep: 2
+transmissions left: 200Source: 7Dest: 10
+aodv done
+rreq: 11 rrep: 4
+trust done
+trreq: 12 trrep: 2
+transmissions left: 199Source: 10Dest: 13
+aodv done
+rreq: 16 rrep: 1
+trust done
+trreq: 16 trrep: 1
+transmissions left: 198Source: 12Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 197Source: 8Dest: 10
+aodv done
+rreq: 16 rrep: 7
+trust done
+trreq: 8 trrep: 3
+transmissions left: 196Source: 14Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 195Source: 0Dest: 4
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 7 trrep: 2
+transmissions left: 194Source: 14Dest: 9
+aodv done
+rreq: 37 rrep: 5
+trust done
+trreq: 30 trrep: 5
+transmissions left: 193Source: 0Dest: 7
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 9 trrep: 2
+transmissions left: 192Source: 6Dest: 13
+aodv done
+rreq: 15 rrep: 3
+trust done
+trreq: 15 trrep: 3
+transmissions left: 191Source: 5Dest: 1
+aodv done
+rreq: 24 rrep: 1
+trust done
+trreq: 18 trrep: 1
+transmissions left: 190Source: 5Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 189Source: 8Dest: 7
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 188Source: 5Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 187Source: 8Dest: 2
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 47 trrep: 5
+transmissions left: 186Source: 0Dest: 13
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 12 trrep: 1
+transmissions left: 185Source: 0Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 184Source: 10Dest: 7
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 23 trrep: 4
+transmissions left: 183Source: 1Dest: 3
+aodv done
+rreq: 35 rrep: 3
+Exceeded max rreq's. trust eror
+transmissions left: 182Source: 1Dest: 12
+aodv done
+rreq: 33 rrep: 4
+trust done
+trreq: 23 trrep: 4
+transmissions left: 181Source: 0Dest: 6
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 7 trrep: 2
+transmissions left: 180Source: 7Dest: 14
+aodv done
+rreq: 5 rrep: 4
+trust done
+trreq: 5 trrep: 4
+transmissions left: 179Source: 1Dest: 11
+aodv done
+rreq: 68 rrep: 5
+trust done
+trreq: 24 trrep: 4
+transmissions left: 178Source: 10Dest: 5
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 23 trrep: 4
+transmissions left: 177Source: 3Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 176Source: 10Dest: 2
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 8 trrep: 3
+transmissions left: 175Source: 3Dest: 12
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 174Source: 13Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 173Source: 3Dest: 11
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 31 trrep: 6
+transmissions left: 172Source: 0Dest: 3
+aodv done
+rreq: 6 rrep: 1
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 171Source: 11Dest: 8
+aodv done
+rreq: 21 rrep: 2
+trust done
+trreq: 20 trrep: 2
+transmissions left: 170Source: 13Dest: 6
+aodv done
+rreq: 40 rrep: 6
+trust done
+trreq: 39 trrep: 6
+transmissions left: 169Source: 0Dest: 13
+aodv done
+rreq: 4 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 168Source: 11Dest: 3
+aodv done
+rreq: 49 rrep: 6
+trust done
+trreq: 2 trrep: 2
+transmissions left: 167Source: 13Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 166Source: 14Dest: 4
+aodv done
+rreq: 69 rrep: 5
+trust done
+trreq: 62 trrep: 5
+transmissions left: 165Source: 12Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 164Source: 0Dest: 1
+aodv done
+rreq: 44 rrep: 3
+trust done
+trreq: 38 trrep: 3
+transmissions left: 163Source: 9Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 162Source: 9Dest: 10
+aodv done
+rreq: 38 rrep: 3
+trust done
+trreq: 11 trrep: 2
+transmissions left: 161Source: 8Dest: 4
+aodv done
+rreq: 23 rrep: 6
+trust done
+trreq: 21 trrep: 6
+transmissions left: 160Source: 5Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 159Source: 8Dest: 6
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 12 trrep: 2
+transmissions left: 158Source: 5Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 157Source: 12Dest: 3
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 12 trrep: 1
+transmissions left: 156Source: 4Dest: 10
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 8 trrep: 2
+transmissions left: 155Source: 8Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 154Source: 5Dest: 7
+aodv done
+rreq: 27 rrep: 2
+trust done
+trreq: 25 trrep: 2
+transmissions left: 153Source: 8Dest: 2
+aodv done
+rreq: 57 rrep: 4
+trust done
+trreq: 54 trrep: 4
+transmissions left: 152Source: 5Dest: 13
+aodv done
+rreq: 26 rrep: 2
+trust done
+trreq: 45 trrep: 5
+transmissions left: 151Source: 11Dest: 14
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 5 trrep: 1
+transmissions left: 150Source: 5Dest: 3
+aodv done
+rreq: 24 rrep: 3
+trust done
+trreq: 10 trrep: 2
+transmissions left: 149Source: 2Dest: 0
+aodv done
+rreq: 10 rrep: 1
+trust done
+trreq: 8 trrep: 1
+transmissions left: 148Source: 0Dest: 13
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 10 trrep: 2
+transmissions left: 147Source: 3Dest: 7
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 5 trrep: 2
+transmissions left: 146Source: 0Dest: 14
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 145Source: 6Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 144Source: 14Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 143Source: 8Dest: 10
+aodv done
+rreq: 55 rrep: 8
+trust done
+trreq: 29 trrep: 5
+transmissions left: 142Source: 3Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 141Source: 3Dest: 6
+aodv done
+rreq: 35 rrep: 4
+trust eror
+transmissions left: 140Source: 7Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 139Source: 5Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 138Source: 6Dest: 10
+aodv done
+rreq: 12 rrep: 3
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 137Source: 7Dest: 10
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 11 trrep: 2
+transmissions left: 136Source: 10Dest: 5
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 8 trrep: 2
+transmissions left: 135Source: 14Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 134Source: 12Dest: 2
+aodv done
+rreq: 77 rrep: 4
+trust done
+trreq: 69 trrep: 4
+transmissions left: 133Source: 0Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 132Source: 2Dest: 13
+aodv done
+rreq: 49 rrep: 3
+trust done
+trreq: 36 trrep: 3
+transmissions left: 131Source: 14Dest: 1
+aodv done
+rreq: 71 rrep: 5
+trust done
+trreq: 56 trrep: 5
+transmissions left: 130Source: 5Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 129Source: 3Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 128Source: 4Dest: 13
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 12 trrep: 1
+transmissions left: 127Source: 11Dest: 1
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 5 trrep: 1
+transmissions left: 126Source: 2Dest: 8
+aodv done
+rreq: 83 rrep: 5
+trust done
+trreq: 77 trrep: 6
+transmissions left: 125Source: 2Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 124Source: 12Dest: 0
+aodv done
+rreq: 79 rrep: 4
+trust done
+trreq: 71 trrep: 4
+transmissions left: 123Source: 7Dest: 6
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 122Source: 9Dest: 3
+aodv done
+rreq: 43 rrep: 3
+trust done
+trreq: 33 trrep: 3
+transmissions left: 121Source: 7Dest: 10
+aodv done
+rreq: 79 rrep: 6
+trust done
+trreq: 60 trrep: 5
+transmissions left: 120Source: 12Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 119Source: 1Dest: 6
+aodv done
+rreq: 29 rrep: 4
+trust done
+trreq: 27 trrep: 4
+transmissions left: 118Source: 8Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 117Source: 13Dest: 2
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 116Source: 4Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 115Source: 7Dest: 1
+aodv done
+rreq: 1 rrep: 1
+trust eror
+transmissions left: 114Source: 13Dest: 2
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 113Source: 0Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 112Source: 1Dest: 10
+aodv done
+rreq: 26 rrep: 7
+trust done
+trreq: 4 trrep: 1
+transmissions left: 111Source: 11Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 110Source: 8Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 109Source: 6Dest: 11
+aodv done
+rreq: 45 rrep: 2
+trust done
+trreq: 44 trrep: 2
+transmissions left: 108Source: 12Dest: 3
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 23 trrep: 4
+transmissions left: 107Source: 1Dest: 0
+aodv done
+rreq: 66 rrep: 3
+trust done
+trreq: 60 trrep: 3
+transmissions left: 106Source: 12Dest: 11
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 105Source: 12Dest: 13
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 17 trrep: 2
+transmissions left: 104Source: 5Dest: 9
+aodv done
+rreq: 26 rrep: 1
+trust done
+trreq: 24 trrep: 1
+transmissions left: 103Source: 3Dest: 13
+aodv done
+rreq: 36 rrep: 7
+trust done
+trreq: 32 trrep: 5
+transmissions left: 102Source: 14Dest: 11
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 6 trrep: 1
+transmissions left: 101Source: 4Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 100Source: 3Dest: 10
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 29 trrep: 3
+transmissions left: 99Source: 9Dest: 8
+aodv done
+rreq: 42 rrep: 3
+trust done
+trreq: 26 trrep: 3
+transmissions left: 98Source: 1Dest: 5
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 97Source: 10Dest: 1
+aodv done
+rreq: 2 rrep: 2
+trust done
+trreq: 4 trrep: 1
+transmissions left: 96Source: 1Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 95Source: 13Dest: 11
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 94Source: 6Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 93Source: 2Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 92Source: 0Dest: 1
+aodv done
+rreq: 12 rrep: 1
+trust done
+trreq: 11 trrep: 1
+transmissions left: 91Source: 12Dest: 14
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 14 trrep: 1
+transmissions left: 90Source: 14Dest: 13
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 8 trrep: 2
+transmissions left: 89Source: 10Dest: 11
+aodv done
+rreq: 16 rrep: 1
+trust done
+trreq: 16 trrep: 1
+transmissions left: 88Source: 2Dest: 7
+aodv done
+rreq: 50 rrep: 3
+trust done
+trreq: 37 trrep: 3
+transmissions left: 87Source: 10Dest: 3
+aodv done
+rreq: 8 rrep: 2
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 86Source: 5Dest: 7
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 85Source: 1Dest: 3
+aodv done
+rreq: 35 rrep: 3
+trust done
+trreq: 33 trrep: 3
+transmissions left: 84Source: 0Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 83Source: 4Dest: 6
+aodv done
+rreq: 10 rrep: 1
+trust done
+trreq: 10 trrep: 1
+transmissions left: 82Source: 1Dest: 4
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 81Source: 2Dest: 14
+aodv done
+rreq: 15 rrep: 2
+trust done
+trreq: 26 trrep: 4
+transmissions left: 80Source: 10Dest: 9
+aodv done
+rreq: 16 rrep: 4
+trust done
+trreq: 26 trrep: 5
+transmissions left: 79Source: 14Dest: 8
+aodv done
+rreq: 35 rrep: 3
+trust done
+trreq: 22 trrep: 3
+transmissions left: 78Source: 14Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 77Source: 11Dest: 6
+aodv done
+rreq: 20 rrep: 2
+trust done
+trreq: 16 trrep: 2
+transmissions left: 76Source: 2Dest: 3
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 75Source: 8Dest: 0
+aodv done
+rreq: 93 rrep: 5
+trust done
+trreq: 80 trrep: 5
+transmissions left: 74Source: 10Dest: 7
+aodv done
+rreq: 8 rrep: 2
+trust done
+trreq: 8 trrep: 2
+transmissions left: 73Source: 3Dest: 9
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 8 trrep: 3
+transmissions left: 72Source: 14Dest: 13
+aodv done
+rreq: 37 rrep: 4
+trust done
+trreq: 33 trrep: 4
+transmissions left: 71Source: 2Dest: 12
+aodv done
+rreq: 48 rrep: 4
+trust done
+trreq: 29 trrep: 4
+transmissions left: 70Source: 2Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 69Source: 14Dest: 9
+aodv done
+rreq: 9 rrep: 1
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 68Source: 11Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 67Source: 4Dest: 7
+aodv done
+rreq: 15 rrep: 1
+trust done
+trreq: 14 trrep: 1
+transmissions left: 66Source: 12Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 65Source: 10Dest: 13
+aodv done
+rreq: 16 rrep: 1
+trust done
+trreq: 14 trrep: 1
+transmissions left: 64Source: 3Dest: 6
+aodv done
+rreq: 35 rrep: 4
+trust done
+trreq: 31 trrep: 4
+transmissions left: 63Source: 0Dest: 12
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 3 trrep: 1
+transmissions left: 62Source: 5Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 61Source: 4Dest: 11
+aodv done
+rreq: 42 rrep: 3
+trust done
+trreq: 41 trrep: 3
+transmissions left: 60Source: 4Dest: 6
+aodv done
+rreq: 4 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 59Source: 8Dest: 1
+aodv done
+rreq: 23 rrep: 2
+trust done
+trreq: 23 trrep: 2
+transmissions left: 58Source: 3Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 57Source: 5Dest: 2
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 56Source: 14Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 55Source: 10Dest: 12
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 54Source: 3Dest: 5
+aodv done
+rreq: 5 rrep: 2
+trust done
+trreq: 4 trrep: 2
+transmissions left: 53Source: 0Dest: 11
+aodv done
+rreq: 36 rrep: 9
+trust done
+trreq: 36 trrep: 9
+transmissions left: 52Source: 3Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 51Source: 4Dest: 9
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 7 trrep: 2
+transmissions left: 50Source: 8Dest: 10
+aodv done
+rreq: 27 rrep: 3
+trust done
+trreq: 27 trrep: 3
+transmissions left: 49Source: 6Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 48Source: 13Dest: 9
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 11 trrep: 2
+transmissions left: 47Source: 12Dest: 8
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 46Source: 12Dest: 0
+aodv done
+rreq: 8 rrep: 4
+trust done
+trreq: 8 trrep: 4
+transmissions left: 45Source: 4Dest: 10
+aodv done
+rreq: 13 rrep: 2
+trust done
+trreq: 13 trrep: 2
+transmissions left: 44Source: 10Dest: 13
+aodv done
+rreq: 12 rrep: 3
+trust done
+trreq: 10 trrep: 3
+transmissions left: 43Source: 11Dest: 7
+aodv done
+rreq: 58 rrep: 4
+trust done
+trreq: 44 trrep: 4
+transmissions left: 42Source: 6Dest: 13
+aodv done
+rreq: 12 rrep: 3
+trust done
+trreq: 12 trrep: 3
+transmissions left: 41Source: 7Dest: 9
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 40Source: 14Dest: 1
+aodv done
+rreq: 71 rrep: 5
+trust done
+trreq: 41 trrep: 5
+transmissions left: 39Source: 9Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 38Source: 6Dest: 13
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 37Source: 5Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 36Source: 14Dest: 2
+aodv done
+rreq: 31 rrep: 3
+trust done
+trreq: 44 trrep: 6
+transmissions left: 35Source: 9Dest: 3
+aodv done
+rreq: 43 rrep: 3
+trust done
+trreq: 36 trrep: 3
+transmissions left: 34Source: 12Dest: 3
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 16 trrep: 2
+transmissions left: 33Source: 0Dest: 4
+aodv done
+rreq: 10 rrep: 2
+trust done
+trreq: 9 trrep: 2
+transmissions left: 32Source: 10Dest: 1
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 31Source: 11Dest: 1
+aodv done
+rreq: 5 rrep: 1
+trust done
+trreq: 4 trrep: 1
+transmissions left: 30Source: 5Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 29Source: 0Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 28Source: 12Dest: 13
+aodv done
+rreq: 12 rrep: 3
+trust done
+trreq: 6 trrep: 3
+transmissions left: 27Source: 6Dest: 14
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 26Source: 6Dest: 8
+aodv done
+rreq: 47 rrep: 2
+trust done
+trreq: 35 trrep: 2
+transmissions left: 25Source: 9Dest: 10
+aodv done
+rreq: 76 rrep: 5
+trust done
+trreq: 50 trrep: 4
+transmissions left: 24Source: 14Dest: 10
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 1 trrep: 1
+transmissions left: 23Source: 13Dest: 0
+aodv done
+rreq: 11 rrep: 2
+trust done
+trreq: 10 trrep: 2
+transmissions left: 22Source: 0Dest: 10
+aodv done
+rreq: 10 rrep: 2
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 21Source: 1Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 20Source: 11Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 19Source: 14Dest: 12
+aodv done
+rreq: 0 rrep: 0
+trust eror
+transmissions left: 18Source: 9Dest: 6
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 17Source: 2Dest: 13
+aodv done
+rreq: 13 rrep: 1
+trust done
+trreq: 10 trrep: 1
+transmissions left: 16Source: 2Dest: 12
+aodv done
+rreq: 17 rrep: 3
+trust done
+trreq: 35 trrep: 5
+transmissions left: 15Source: 1Dest: 9
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 14Source: 11Dest: 13
+aodv done
+rreq: 4 rrep: 1
+trust done
+trreq: 3 trrep: 1
+transmissions left: 13Source: 3Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust done
+trreq: 28 trrep: 3
+transmissions left: 12Source: 13Dest: 0
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 11Source: 3Dest: 1
+aodv done
+rreq: 37 rrep: 3
+trust done
+trreq: 31 trrep: 3
+transmissions left: 10Source: 6Dest: 10
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 14 trrep: 2
+transmissions left: 9Source: 7Dest: 4
+aodv done
+rreq: 1 rrep: 1
+trust done
+trreq: 1 trrep: 1
+transmissions left: 8Source: 2Dest: 9
+aodv done
+rreq: 17 rrep: 2
+trust done
+trreq: 16 trrep: 2
+transmissions left: 7Source: 8Dest: 14
+aodv done
+rreq: 27 rrep: 3
+Exceeded max rreq's. trust eror
+transmissions left: 6Source: 4Dest: 2
+aodv done
+rreq: 10 rrep: 2
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 5Source: 0Dest: 14
+aodv done
+rreq: 14 rrep: 2
+trust done
+trreq: 12 trrep: 2
+transmissions left: 4Source: 4Dest: 13
+aodv done
+rreq: 36 rrep: 7
+trust done
+trreq: 34 trrep: 5
+transmissions left: 3Source: 13Dest: 4
+aodv done
+rreq: 0 rrep: 0
+trust route exists
+trust done
+trreq: 0 trrep: 0
+transmissions left: 2Source: 0Dest: 4
+aodv done
+rreq: 6 rrep: 1
+trust done
+trreq: 5 trrep: 1
+transmissions left: 1Source: 3Dest: 7
+aodv done
+rreq: 37 rrep: 3
+trust done
+trreq: 33 trrep: 3
+transmissions left: 0Source: 7Dest: 14
+aodv done
+rreq: 14 rrep: 3
+trust done
+trreq: 62 trrep: 4
+
+Roverhead     Normalizedroutingload     Throughput     Optimality
+
+1) 17		0.01956271577		91.20630953		1
+
+2) 42		0.04827586207		112.4005415		1
+
+3) 5		0.01404494382		59.34151736		0.75
+
+4) 36		0.05669291339		115.1652399		1
+
+5) 15		0.06172839506		19.25880449		1
+
+6) 5		0.005555555556		91.8632651		0.6666666667
+
+7) 49		0.1331521739		57.74301302		1
+
+8) 13		0.01940298507		10.78127491		1
+
+9) 25		0.1908396947		60.69000975		1
+
+10) 5		0.15625		105.2875781		0.6666666667
+
+11) 26		0.2280701754		59.35325419		0.5
+
+12) 0		0		9.826685393		1
+
+13) 47		0.3175675676		44.32327173		1
+
+14) 16		0.03855421687		117.976012		0.75
+
+15) 12		0.1875		54.66966113		0.7142857143
+
+16) 48		0.1573770492		62.1573291		1
+
+17) 0		0		88.80960265		1
+
+18) 0		0		27.21674312		1
+
+19) 6		0.00622406639		30.41889949		0.75
+
+20) 18		0.01969365427		135.8985771		1
+
+21) 12		0.02234636872		23.50427383		1
+
+22) 65		0.1247600768		40.76766287		0.8
+
+23) 0		0		85.22135417		1
+
+24) 49		0.3712121212		124.4019782		0.8
+
+25) 0		0		38.46605431		0.6666666667
+
+26) 6		0.007380073801		80.01063505		0.6
+
+27) 0		0		15.01005025		1
+
+28) 13		0.02647657841		124.0711326		0.4285714286
+
+29) 0		0		90.5655922		1
+
+30) 46		0.07528641571		72.19158992		1
+
+31) 0		0		48.20489691		1
+
+32) 43		0.05415617128		8.558841181		1
+
+33) 48		0.09795918367		65.42774526		0.2727272727
+
+34) 0		0		56.83802178		1
+
+35) 6		0.01694915254		42.76733986		0.8
+
+36) 0		0		32.85615711		1
+
+37) 10		0.8333333333		86.83104746		0.8
+
+38) 19		0.02423469388		71.48269027		1
+
+39) 0		0		17.147806		1
+
+40) 46		0.6478873239		80.95514215		1
+
+41) 0		0		48.85181347		1
+
+42) 0		0		7.875144175		1
+
+43) 0		0		26.32486339		1
+
+44) 59		0.1861198738		1.127704571		1
+
+45) 16		0.2352941176		46.61951403		1
+
+46) 0		0		86.14602102		1
+
+47) 0		0		30.73801561		1
+
+48) 0		0		107.3537234		1
+
+49) 7		0.03211009174		87.53783202		1
+
+50) 7		0.02723735409		80.34188188		0.8
+
+51) 5		0.005780346821		54.31806106		0.75
+
+52) 0		0		22.52596154		1
+
+53) 64		0.183908046		85.01698182		1
+
+54) 25		0.03586800574		90.80839263		1
+
+55) 26		0.08074534161		83.41671778		1
+
+56) 49		0.08180300501		99.85470883		1
+
+57) 52		2.363636364		13.95467652		0.8
+
+58) 0		0		120.7489627		1
+
+59) 13		0.02166666667		77.7804888		0.6666666667
+
+60) 0		0		50.14622937		1
+
+61) 12		0.02348336595		88.45197714		0.7142857143
+
+62) 69		0.0922459893		36.65947668		1
+
+63) 29		0.2027972028		24.22522756		1
+
+64) 0		0		41.23314379		0.75
+
+65) 13		0.01362683438		80.91479659		0.75
+
+66) 0		0		115.4278351		1
+
+67) 10		0.03717472119		50.27735114		1
+
+68) 17		0.1666666667		122.2156496		0.8333333333
+
+69) 10		0.01251564456		99.53903033		0.75
+
+70) 13		0.04276315789		83.45429741		0.8
+
+71) 6		0.007462686567		83.13018365		0.6666666667
+
+72) 0		0		116.2713651		1
+
+73) 0		0		38.99367089		1
+
+74) 22		0.04143126177		45.03856009		1
+
+75) 16		0.2711864407		8.169571021		1
+
+76) 11		0.01165254237		76.80220117		0.75
+
+77) 0		0		81.28564982		1
+
+78) 55		0.07105943152		74.94186687		0.375
+
+79) 5		0.006535947712		5.0540044		0.75
+
+80) 0		0		121.3794643		1
+
+81) 0		0		115.5351906		0.75
+
+82) 0		0		74.36590909		1
+
+83) 50		0.08547008547		70.30214095		1
+
+84) 45		1.607142857		53.49335852		1
+
+85) 59		0.1516709512		53.56295879		1
+
+86) 0		0		11.46984812		1
+
+87) 34		0.3269230769		64.53867844		1
+
+88) 2		0.002478314746		62.96257909		0.8
+
+89) 32		0.5079365079		21.16684158		1
+
+90) 36		1.125		25.81447609		1
+
+91) 7		0.02265372168		2.507844589		0.6666666667
+
+92) 2		0.003623188406		4.863012596		1
+
+93) 0		0		33.87526767		1
+
+94) 30		0.08849557522		17.3662122		0.5714285714
+
+95) 0		0		39.83746898		1
+
+96) 19		0.04042553191		21.17729332		1
+
+97) 7		0.007314524556		8.626952125		1
+
+98) 51		0.25		84.1738902		1
+
+99) 35		0.08838383838		28.23742091		0.6666666667
+
+100) 17		0.02966841187		17.6803548		1
+
+101) 5		0.09433962264		43.34369091		1
+
+102) 0		0		93.17231813		1
+
+103) 20		0.02018163471		46.72925956		0.8
+
+104) 56		0.2258064516		117.9976077		1
+
+105) 44		0.1456953642		123.836584		1
+
+106) 0		0		62.94964029		1
+
+107) 61		0.121031746		27.22765984		0.75
+
+108) 15		0.01829268293		92.32930325		0.75
+
+109) 0		0		80.96491228		1
+
+110) 15		0.0487012987		87.3524333		0.5
+
+111) 2		0.002145922747		99.71891156		0.8
+
+112) 16		0.02472952087		88.66392622		0.8
+
+113) 0		0		40.01505268		0.75
+
+114) 14		0.03456790123		74.93522541		0.6666666667
+
+115) 51		0.05930232558		1.260788088		0.75
+
+116) 2		0.03448275862		81.75456279		1
+
+117) 0		0		114.8647194		0.75
+
+118) 61		0.7261904762		55.46370316		0.8333333333
+
+119) 0		0		26.71594878		0.6666666667
+
+120) 0		0		89.57531797		0.6666666667
+
+121) 7		0.0154185022		32.03479434		0.8
+
+122) 4		0.006980802792		67.68915636		0.8333333333
+
+123) 81		0.08813928183		83.45143473		0.8
+
+124) 50		0		0		1
+
+125) 7		0.008130081301		73.53396786		0.6
+
+126) 6		0.008333333333		116.2274127		0.8
+
+127) 0		0		25.26760563		1
+
+128) 28		0.1212121212		1.13792532		0.8
+
+129) 49		0.09959349593		110.9231921		0.8
+
+130) 51		0.1457142857		4.144039064		0.75
+
+131) 28		0.03244495944		83.25851187		1
+
+132) 12		0.3157894737		54.95366082		0.3333333333
+
+133) 0		0		121.7297026		1
+
+134) 13		0.025		75.50917777		1
+
+135) 51		0.07093184979		49.40574794		0.3333333333
+
+136) 34		0.06017699115		85.19880107		1
+
+137) 4		0.005128205128		106.0330097		0.4285714286
+
+138) 16		0.02888086643		2.509618093		0.5714285714
+
+139) 85		0.8947368421		85.02165237		1
+
+140) 46		0.0625		92.68099806		1
+
+141) 85		0.3195488722		69.29475648		1
+
+142) 0		0		2.114285714		1
+
+143) 0		0		43.20737168		1
+
+144) 0		0		38.62183099		1
+
+145) 0		0		38.1686747		1
+
+146) 5		0.006640106242		66.01842653		0.75
+
+147) 79		1.097222222		32.59055411		1
+
+148) 48		0.04892966361		11.01704912		1
+
+149) 0		0		111.4444444		0.75
+
+150) 28		0.02889576883		38.49873192		1
+
+151) 18		0.048		73.92721618		0.3636363636
+
+152) 14		0.02124430956		122.6716512		0.3636363636
+
+153) 0		0		4.846237337		1
+
+154) 38		0.04865556978		23.83482004		1
+
+155) 0		0		9.263157895		1
+
+156) 0		0		112.0482938		0.3636363636
+
+157) 10		0.02207505519		105.5954749		1
+
+158) 2		0.003816793893		70.19894016		0.3846153846
+
+159) 11		0.02340425532		5.830830998		1
+
+160) 0		0		78.38924051		1
+
+161) 26		0.1477272727		49.96634507		0.4285714286
+
+162) 48		0.0676056338		112.1886561		0.8
+
+163) 2		0.00299850075		23.07160152		0.75
+
+164) 0		0		112.5373134		1
+
+165) 13		0.01897810219		101.0885875		0.5
+
+166) 17		0.03090909091		61.27648059		1
+
+167) 0		0		62.34375		1
+
+168) 0		0		19.34141791		1
+
+169) 17		0.06007067138		118.3802344		0.5
+
+170) 47		2.473684211		16.76037224		1
+
+171) 17		0.02833333333		46.48806366		1
+
+172) 13		0.13		120.8648962		0.8333333333
+
+173) 16		4		19.90018519		0.8
+
+174) 28		0.04705882353		11.96177339		1
+
+175) 50		0.05524861878		90.78404519		1
+
+176) 4		0.0064		107.3454999		0.4
+
+177) 45		0.05603985056		103.2947262		0.4444444444
+
+178) 7		0.007936507937		20.61121359		0.8
+
+179) 30		0.05110732538		22.4162128		0.7142857143
+
+180) 0		0		41.54356061		1
+
+181) 7		0.00758396533		150.4710443		0.6666666667
+
+182) 0		0		2.045234249		1
+
+183) 13		0.03225806452		51.03622854		0.8
+
+184) 33		0.2578125		62.38784109		0.7142857143
+
+185) 0		0		79.81132075		0.75
+
+186) 15		0.12		103.2184678		0.8
+
+187) 0		0		21.23081395		1
+
+188) 59		0.3277777778		108.6653433		1
+
+189) 5		0.02083333333		16.63023484		0.8
+
+190) 57		0.2118959108		113.3867773		0.625
+
+191) 31		0.03994845361		26.67819431		0.6666666667
+
+192) 49		0.6901408451		54.84238986		1
+
+193) 10		0.01557632399		17.31179522		0.8333333333
+
+194) 0		0		8.449799197		1
+
+195) 28		0.03513174404		50.28809052		1
+
+196) 12		0.015		126.4807712		0.6666666667
+
+197) 5		0.009671179884		72.20217173		0.75
+
+198) 17		0.02075702076		35.49460018		1
+
+199) 0		0		109.4350142		0.6666666667
+
+200) 45		0.4891304348		48.33977094		1
+
+201) 9		0.01209677419		118.4511522		0.6
+
+202) 10		0.0198019802		5.271422025		0.75
+
+203) 48		0.1206030151		123.1510317		1
+
+204) 31		0.05605786618		106.7382621		1
+
+205) 49		0.1545741325		32.30633821		1
+
+206) 16		0.02253521127		115.6338865		1
+
+207) 0		0		50.01778243		1
+
+208) 61		0.1408775982		18.59070536		0.75
+
+209) 4		0.005270092227		103.0520445		0.7142857143
+
+210) 4		0.02816901408		117.2499672		0.6
+
+211) 12		0.01877934272		91.23503817		0.75
+
+212) 20		0.02400960384		28.69945119		0.4285714286
+
+213) 0		0		115.5126883		1
+
+214) 12		0.01421800948		107.4590316		0.8
+
+215) 31		0.1949685535		87.37695844		0.75
+
+216) 0		0		111.9184397		1
+
+217) 15		0.04885993485		6.934904056		0.75
+
+218) 10		0.01510574018		7.081117102		0.75
+
+219) 46		0.09406952965		83.14605544		1
+
+220) 2		0.003025718608		19.99088555		0.6666666667
+
+221) 7		0.09722222222		34.61811253		0.75
+
+222) 0		0		59.23447987		1
+
+223) 50		1.315789474		87.94734506		1
+
+224) 49		0.07446808511		39.75713442		1
+
+225) 2		0.007067137809		52.56717258		1
+
+226) 0		0		48.33384997		1
+
+227) 15		0.02467105263		87.30943744		1
+
+228) 25		0.02831257078		122.8264114		0.4285714286
+
+229) 7		0.007085020243		89.41495951		0.6
+
+230) 40		0.253164557		44.13327398		1
+
+231) 16		0.0981595092		85.55455241		0.2222222222
+
+232) 25		0.1351351351		4.180147133		1
+
+233) 38		1.310344828		38.24536024		1
+
+234) 0		0		76.69077307		1
+
+235) 5		0.00772797527		114.5932825		0.75
+
+236) 0		0		14.79307432		1
+
+237) 13		0.03703703704		108.1529795		0.75
+
+238) 10		0.01033057851		72.06770802		0.8333333333
+
+239) 17		0.02096177559		1.257921768		0.5
+
+240) 0		0		64.82743474		1
+
+241) 8		0.01805869074		0.3765463271		0.75
+
+242) 0		0		5.275862069		1
+
+243) 0		0		82.08270349		0.6666666667
+
+244) 13		0.03682719547		95.96780656		0.75
+
+245) 19		0.04947916667		63.9993123		1
+
+246) 5		0.06097560976		107.6030775		0.75
+
+247) 27		0.03683492497		55.37437671		0.6666666667
+
+248) 2		0.008695652174		96.76169601		1
+
+249) 83		0.0901194354		70.84462029		1
+
+250) 48		0.06886657102		85.29583371		1
+
+251) 6		0.006269592476		50.13990018		0.6666666667
+
+252) 61		0.09312977099		17.46320729		0.8333333333
+
+253) 0		0		19.38118812		0.8
+
+254) 5		0.01231527094		33.93418079		1
+
+255) 0		0		88.35161606		1
+
+256) 43		0.1557971014		119.9797426		0.6666666667
+
+257) 25		0.2941176471		63.4129948		0.75
+
+258) 0		0		120.7058824		1
+
+259) 13		0.1940298507		39.67290589		1
+
+260) 45		1		102.8167581		1
+
+261) 50		0.1666666667		41.1020119		1
+
+262) 0		0		42.33193687		1
+
+263) 48		0.2580645161		36.6341539		1
+
+264) 0		0		76.86280138		0.8
+
+265) 0		0		15.59079498		0.6666666667
+
+266) 2		0.003676470588		7.518269497		0.8333333333
+
+267) 9		0.01271186441		49.77323383		0.6666666667
+
+268) 25		0.03834355828		80.51319375		0.6666666667
+
+269) 28		0.05857740586		126.3966663		1
+
+270) 11		0.1089108911		116.4534979		0.6666666667
+
+271) 0		0		21.52304845		1
+
+272) 12		2.4		16.48393752		0.8
+
+273) 10		0.01479289941		75.40997584		0.75
+
+274) 0		0		77.48277005		0.75
+
+275) 24		0.09448818898		39.28073506		1
+
+276) 18		0.02173913043		15.57628566		1
+
+277) 13		0.04166666667		123.1733556		0.75
+
+278) 15		0.01955671447		71.40765883		0.8333333333
+
+279) 0		0		40.734375		1
+
+280) 29		0.1757575758		90.22763144		0.8
+
+281) 27		0.09963099631		75.15767922		1
+
+282) 0		0		26.76274788		0.8
+
+283) 19		0.03454545455		41.72509879		1
+
+284) 25		0.1388888889		98.61009711		1
+
+285) 16		0.01809954751		104.8101297		1
+
+286) 0		0		89.09039162		1
+
+287) 2		0.02564102564		120.10078		1
+
+288) 45		0.137195122		39.23396253		1
+
+289) 0		0		123.5561594		1
+
+290) 13		0.01771117166		69.48385232		0.8
+
+291) 11		0.03038674033		70.70527592		0.75
+
+292) 78		0.2736842105		64.32024127		0.8333333333
+
+293) 12		0.01470588235		28.01540347		0.8
+
+294) 41		0.1188405797		82.00307209		1
+
+295) 19		0.02199074074		74.48208808		0.3333333333
+
+296) 2		0.002574002574		107.998454		0.6666666667
+
+297) 17		0.04802259887		102.8945694		0.8
+
+298) 6		0.009273570325		14.57171988		0.6666666667
+
+299) 15		0.03865979381		56.07827657		0.75
+
+300) 15		0.03157894737		38.12906513		0.8333333333
+
+301) 17		0.02828618968		109.9054161		0.8333333333
+
+302) 0		0		85.88570205		1
+
+303) 23		0.04457364341		16.58583448		0.4444444444
+
+304) 0		0		53.17120443		0.8333333333
+
+305) 12		0.01264488936		11.89795443		0.75
+
+306) 42		0.05817174515		10.42411339		0.8
+
+307) 12		0.01692524683		38.32275971		0.8
+
+308) 18		0.02377807133		70.02334385		0.75
+
+309) 25		0.0382848392		36.61024046		1
+
+310) 0		0		116.0390026		1
+
+311) 5		0.005040322581		105.513969		0.8
+
+312) 0		0		3.472222222		1
+
+313) 61		0.07253269917		115.1379474		1
+
+314) 13		0.01604938272		72.90542408		0.5
+
+315) 0		0		77.6659919		0.8
+
+316) 5		0.03048780488		72.08293742		0.7142857143
+
+317) 38		0.119873817		75.40169428		1
+
+318) 37		0.06146179402		10.96530907		0.75
+
+319) 12		0.02242990654		72.26947637		0.8
+
+320) 9		0.01034482759		90.80252372		0.7142857143
+
+321) 73		0.08528037383		105.9043732		0.8
+
+322) 10		0.02597402597		45.65828104		0.75
+
+323) 0		0		100.3508772		1
+
+324) 10		0.01349527665		86.35139419		1
+
+325) 7		0.01102362205		10.29411591		0.8333333333
+
+326) 0		0		29.54277664		1
+
+327) 7		0.01076923077		2.632023758		0.7142857143
+
+328) 7		0.009283819629		65.0420069		0.6666666667
+
+329) 23		0.02709069494		71.21695113		1
+
+330) 46		0.09913793103		32.63803065		0.375
+
+331) 6		0.006578947368		40.24433619		0.8
+
+332) 55		0.1687116564		51.66394659		0.7142857143
+
+333) 0		0		80.06641561		0.375
+
+334) 74		0.1417624521		39.87288863		0.8
+
+335) 0		0		101.175		1
+
+336) 47		0.2061403509		121.375009		1
+
+337) 0		0		21.62885274		1
+
+338) 41		0.5125		104.4145212		0.8
+
+339) 29		0.1933333333		54.45480445		0.3333333333
+
+340) 0		0		69.02542373		1
+
+341) 6		0.01630434783		123.9692736		0.2
+
+342) 0		0		51.94258373		1
+
+343) 12		0.08633093525		87.9647717		0.7142857143
+
+344) 12		0.2		124.2023015		0.6666666667
+
+345) 0		0		46.62042334		0.3333333333
+
+346) 29		0.04809286899		106.5346121		1
+
+347) 61		0.07168037603		20.27967119		1
+
+348) 28		0.06208425721		61.41008965		1
+
+349) 6		0.01796407186		104.3525425		1
+
+350) 27		0.3506493506		15.9267101		1
+
+351) 11		0.01295641932		91.45190799		1
+
+352) 12		0.0251572327		15.06463915		0.8
+
+353) 7		0.01052631579		2.661037675		0.8
+
+354) 16		0.01724137931		121.4330936		1
+
+355) 0		0		77.61910774		1
+
+356) 0		0		112.7379808		1
+
+357) 63		0.07094594595		42.07388516		1
+
+358) 0		0		33.59248992		1
+
+359) 39		0.04955527319		26.35541347		1
+
+360) 0		0		40.17788462		1
+
+361) 0		0		-1.#IND		1
+
+362) 15		0.02215657312		74.44902375		0.8
+
+363) 2		0.0078125		108.351042		0.4166666667
+
+364) 10		0.01006036217		107.8032837		0.75
+
+365) 0		0		55.25352495		1
+
+366) 81		0.2137203166		60.38702272		1
+
+367) 0		0		84.63541667		1
+
+368) 52		0.1561561562		34.16062856		1
+
+369) 76		0.1450381679		72.53550631		1
+
+370) 0		0		102.8309316		1
+
+371) 0		0		86.07525253		1
+
+372) 13		0.01470588235		29.05696033		0.75
+
+373) 6		0.01268498943		46.23336031		0.5714285714
+
+374) 88		0.1115335868		108.5061161		0.8
+
+375) 0		0		97.05245902		1
+
+376) 83		0.2249322493		75.86827902		1
+
+377) 13		0.02070063694		53.15446816		1
+
+378) 46		0.05786163522		83.5225411		1
+
+379) 85		0.09371554576		78.52299548		0.8333333333
+
+380) 0		0		77.94230769		1
+
+381) 33		0.3142857143		19.5687981		0.75
+
+382) 0		0		92.18417553		1
+
+383) 0		0		55.52		1
+
+384) 0		0		111.6546091		1
+
+385) 2		0.00404040404		106.2683138		0.75
+
+386) 0		0		86.58137774		1
+
+387) 0		0		60.728056		1
+
+388) 33		0.05729166667		62.78647145		0.5
+
+389) 0		0		5.151349614		1
+
+390) 0		0		72.6942344		1
+
+391) 47		0.08671586716		16.89021142		1
+
+392) 19		0.06312292359		77.35739931		0.8333333333
+
+393) 69		0.1646778043		70.61267623		1
+
+394) 0		0		120.5759346		1
+
+395) 19		0.05413105413		79.80425829		1
+
+396) 27		0.1102040816		106.46165		1
+
+397) 43		0.3115942029		15.07778529		1
+
+398) 7		0.01105845182		57.98409985		1
+
+399) 0		0		33.54369628		1
+
+400) 7		0.01125401929		54.48111127		0.3
+
+401) 45		0.05125284738		54.30925064		1
+
+402) 0		0		47.66399721		1
+
+403) 4		0.008908685969		121.9822572		0.8
+
+404) 0		0		115.4003906		1
+
+405) 16		0.04444444444		41.41613616		0.75
+
+406) 0		0		12.52931596		1
+
+407) 0		0		22.95495495		1
+
+408) 13		0.04887218045		15.8075797		0.4285714286
+
+409) 16		0.1006289308		40.42015247		0.6666666667
+
+410) 10		0.01051524711		119.9982783		0.8
+
+411) 17		17		29.56168252		0.6666666667
+
+412) 53		0.07805596465		3.780962411		1
+
+413) 10		0.01464128843		115.3326483		0.75
+
+414) 0		0		30.38760897		1
+
+415) 38		0.06365159129		37.50463327		1
+
+416) 0		0		91.94807692		1
+
+417) 11		0.01748807631		81.58812161		1
+
+418) 5		0.005518763797		69.51684691		0.6666666667
+
+419) 17		0.05704697987		110.3005837		0.75
+
+420) 20		0.02506265664		76.49635877		1
+
+421) 38		0.05255878285		42.71789966		1
+
+422) 0		0		26.79780946		0.8
+
+423) 22		0.02573099415		31.61245556		1
+
+424) 0		0		56.64031943		1
+
+425) 98		0.2684931507		10.52361983		1
+
+426) 10		0.01179245283		2.13087571		0.8333333333
+
+427) 2		0.0487804878		22.85033368		0.75
+
+428) 41		0.5857142857		106.6484392		1
+
+429) 52		0.1290322581		4.566449911		1
+
+430) 0		0		45.92881072		1
+
+431) 10		0.01150747986		78.43671297		0.6666666667
+
+432) 0		0		37.51171875		1
+
+433) 16		0.05194805195		82.56592497		1
+
+434) 0		0		64.2955379		1
+
+435) 17		0.06093189964		76.84699195		0.8333333333
+
+436) 39		0.07942973523		118.2655557		1
+
+437) 7		0.0393258427		101.8087945		0.6666666667
+
+438) 0		0		114.1327951		1
+
+439) 45		0.05603985056		15.7732544		1
+
+440) 6		0.1935483871		125.4084244		0.25
+
+441) 25		0.2840909091		107.499496		1
+
+442) 0		0		86.58608987		1
+
+443) 0		0		120.6809567		1
+
+444) 0		0		26.25883392		1
+
+445) 5		0.03816793893		86.24125667		0.375
+
+446) 7		0.02243589744		107.9893261		1
+
+447) 45		0.4736842105		37.13388327		0.4285714286
+
+448) 0		0		116.9274194		1
+
+449) 16		0.3404255319		68.4615186		1
+
+450) 30		0.03012048193		51.89957745		0.8
+
+451) 0		0		85.71657545		1
+
+452) 13		0.02594810379		40.55581006		0.75
+
+453) 0		0		104.5697761		1
+
+454) 12		0.09756097561		113.3310248		0.6666666667
+
+455) 15		0.0327510917		20.55003802		0.5714285714
+
+456) 15		0.04559270517		50.49315346		0.8333333333
+
+457) 62		0.09582689335		10.03349704		1
+
+458) 15		0.0306122449		17.09418667		0.75
+
+459) 2		0.003766478343		115.7445511		0.75
+
+460) 76		0.1535353535		79.43501884		1
+
+461) 0		0		91.39540658		0.8
+
+462) 0		0		65.44224078		0.75
+
+463) 0		0		85.72038724		1
+
+464) 34		0.04551539491		2.738053574		1
+
+465) 46		0.05251141553		3.139314268		1
+
+466) 19		0.03166666667		90.11886205		0.8333333333
+
+467) 12		0.05882352941		95.07498302		0.75
+
+468) 0		0		63.07277835		1
+
+469) 6		0.006160164271		89.01782299		0.5714285714
+
+470) 0		0		109.8257212		1
+
+471) 0		0		118.3709091		1
+
+472) 15		0.01551189245		13.80232502		0.3333333333
+
+473) 0		0		54.51200204		1
+
+474) 49		0.2692307692		119.8358447		1
+
+475) 81		0.114084507		78.96477317		0.8
+
+476) 0		0		128.7798246		1
+
+477) 13		0.03217821782		67.65990983		0.8
+
+478) 12		0.01632653061		54.69525471		1
+
+479) 0		0		64.81067961		0.75
+
+480) 0		0		60.6408046		1
+
+481) 0		0		61.12900831		1
+
+482) 0		0		78.15		1
+
+483) 14		0.03389830508		15.44813541		0.75
+
+484) 20		0.02312138728		115.3944353		0.6666666667
+
+485) 0		0		75.24613555		1
+
+486) 5		0.0135501355		73.7989049		0.75
+
+487) 0		0		31.85336538		1
+
+488) 0		0		8.783867846		0.8
+
+489) 40		0.1012658228		3.272342065		1
+
+490) 16		0.01856148492		63.63075106		0.5714285714
+
+491) 2		0.0253164557		84.34685121		1
+
+492) 19		0.04042553191		32.81809501		1
+
+493) 30		0.09375		12.32310448		1
+
+494) 12		0.08391608392		69.27203519		0.6666666667
+
+495) 16		0.02269503546		15.0351742		1
+
+496) 43		2.047619048		83.05843625		0.4285714286
+
+497) 0		0		78.95379377		1
+
+498) 7		0.03365384615		122.7980449		0.75
+
+499) 40		0.248447205		90.54514987		0.8
+
+500) 17		0.0183982684		27.56861006		0.8333333333
+
+dest: 3nexthop: 4trust: 0.44999999
+dest: 6nexthop: 4trust: 0.5
+dest: 4nexthop: 4trust: 0.39999998
+dest: 8nexthop: 4trust: 0.5
+dest: 14nexthop: 4trust: 0.55000001
+
+Routing overhead     Normalized routing load     Throughput     Optimality
+
+1) 17		0.01956271577		91.20630953		1
+
+2) 42		0.04827586207		112.4005415		1
+
+3) 5		0.01404494382		59.34151736		0.75
+
+4) 36		0.05669291339		115.1652399		1
+
+5) 15		0.06172839506		19.25880449		1
+
+6) 5		0.005555555556		91.8632651		0.6666666667
+
+7) 49		0.1331521739		57.74301302		1
+
+8) 13		0.01940298507		10.78127491		1
+
+9) 25		0.1908396947		60.69000975		1
+
+10) 19		0.59375		104.7610601		0.5714285714
+
+11) 25		0.2192982456		59.35575673		0.5
+
+12) 0		0		9.826685393		1
+
+13) 45		0.3040540541		44.33327378		1
+
+14) 32		0.07710843373		117.8903507		0.75
+
+15) 2		0.03125		54.92452279		0.8333333333
+
+16) 45		0.1475409836		62.16675017		1
+
+17) 0		0		88.80960265		1
+
+18) 0		0		27.21674312		1
+
+19) 6		0.00622406639		30.41889949		0.75
+
+20) 18		0.01969365427		135.8985771		1
+
+21) 12		0.02234636872		23.50427383		1
+
+22) 43		0.08253358925		40.81956958		1
+
+23) 0		0		85.22135417		1
+
+24) 47		0.3560606061		124.4124731		0.8
+
+25) 0		0		38.46605431		0.6666666667
+
+26) 0		0		80.11264217		0.75
+
+27) 0		0		15.01005025		1
+
+28) 44		0.08961303462		123.9026489		0.3
+
+29) 0		0		90.5655922		1
+
+30) 45		0.0736497545		72.22390607		1
+
+31) 0		0		48.20489691		1
+
+32) 40		0.05037783375		8.559263401		1
+
+33) 7		0.01428571429		65.4784943		0.3
+
+34) 2		0.002717391304		56.5985874		0.6666666667
+
+35) 6		0.01694915254		42.76733986		0.8
+
+36) 0		0		32.85615711		1
+
+37) 7		0.5833333333		87.01058137		0.8
+
+38) 16		0.02040816327		71.49483641		1
+
+39) 0		0		17.147806		1
+
+40) 32		0.4507042254		81.10914773		1
+
+41) 0		0		48.85181347		1
+
+42) 0		0		7.875144175		1
+
+43) 0		0		26.32486339		1
+
+44) 52		0.1640378549		1.12728714		0.8
+
+45) 16		0.2352941176		46.61951403		1
+
+46) 0		0		86.14602102		1
+
+47) 10		0.02272727273		30.68323888		0.8
+
+48) 13		0.02863436123		105.9493595		0.6666666667
+
+49) 7		0.03211009174		87.53783202		1
+
+50) 7		0.02723735409		80.34188188		0.8
+
+51) 5		0.005780346821		54.31806106		0.75
+
+52) 0		0		22.52596154		1
+
+53) 28		0.08045977011		84.93411982		0.6666666667
+
+54) 16		0.02295552367		95.10795704		1
+
+55) 0		0		83.36199377		0.75
+
+56) 14		0.02337228715		99.81693291		0.8
+
+57) 48		2.181818182		13.98491963		0.8
+
+58) 0		0		120.6492175		0.8
+
+59) 31		0.05166666667		77.60608003		0.4
+
+60) 0		0		50.14622937		1
+
+61) 73		0.1428571429		88.39464926		0.8333333333
+
+62) 61		0.08155080214		36.66296062		1
+
+63) 22		0.1538461538		24.17334462		0.4285714286
+
+64) 4		0.01869158879		41.18104184		0.6
+
+65) 47		0.04926624738		80.78041816		0.4285714286
+
+66) 0		0		115.1337017		0.75
+
+67) 0		0		0		0
+
+68) 12		0.1176470588		122.2407746		0.8333333333
+
+69) 0		0		99.68866775		1
+
+70) 20		0.06578947368		82.99631773		0.5714285714
+
+71) 0		0		83.13340757		0.6666666667
+
+72) 0		0		116.2713651		1
+
+73) 0		0		38.99367089		1
+
+74) 22		0.04143126177		45.03856009		1
+
+75) 16		0.2711864407		8.169571021		1
+
+76) 10		0.01059322034		76.80276319		0.75
+
+77) 0		0		81.28564982		1
+
+78) 48		0.06201550388		75.05406829		0.5
+
+79) 5		0.006535947712		5.0540044		0.75
+
+80) 0		0		121.3794643		1
+
+81) 0		0		115.5351906		0.75
+
+82) 0		0		74.36590909		1
+
+83) 48		0.08205128205		70.30422118		1
+
+84) 37		1.321428571		53.80810248		1
+
+85) 41		0.1053984576		53.54168449		0.8
+
+86) 6		0.00933125972		11.41506018		0.4285714286
+
+87) 15		0.1442307692		66.14334787		1
+
+88) 2		0.002478314746		62.96257909		0.8
+
+89) 0		0		0		0
+
+90) 7		0.21875		26.89291598		0.75
+
+91) 0		0		0		0
+
+92) 2		0.003623188406		4.863012596		1
+
+93) 6		0.1666666667		33.61537396		0.6666666667
+
+94) 51		0.1504424779		17.42762181		1
+
+95) 0		0		39.83746898		1
+
+96) 18		0.03829787234		21.17849366		1
+
+97) 7		0.007314524556		8.626952125		1
+
+98) 40		0.1960784314		84.66314399		1
+
+99) 12		0.0303030303		28.26479395		0.6666666667
+
+100) 15		0.02617801047		17.56061431		0.3333333333
+
+101) 5		0.09433962264		43.34369091		1
+
+102) 0		0		93.17231813		1
+
+103) 25		0.02522704339		46.72553537		0.8
+
+104) 6		0.02419354839		118.1939308		0.75
+
+105) 41		0.1357615894		123.8788074		1
+
+106) 0		0		62.94964029		1
+
+107) 56		0.1111111111		27.27967397		0.75
+
+108) 15		0.01829268293		92.32930325		0.75
+
+109) 0		0		80.96491228		1
+
+110) 15		0.0487012987		87.3524333		0.5
+
+111) 2		0.002145922747		99.71891156		0.8
+
+112) 0		0		0		0
+
+113) 0		0		40.01505268		0.75
+
+114) 12		0.02962962963		74.94259142		0.6666666667
+
+115) 35		0.04069767442		1.26117395		0.75
+
+116) 2		0.03448275862		81.75456279		1
+
+117) 0		0		114.8647194		0.75
+
+118) 43		0.5119047619		55.52137328		0.8333333333
+
+119) 0		0		26.71594878		0.6666666667
+
+120) 0		0		89.57531797		0.6666666667
+
+121) 7		0.0154185022		32.03479434		0.8
+
+122) 7		0.01221640489		67.68248767		0.8333333333
+
+123) 58		0.06311207835		83.59247925		1
+
+124) 62		0		0		0.8333333333
+
+125) 7		0.008130081301		73.53396786		0.6
+
+126) 5		0.006944444444		116.2285701		0.8
+
+127) 0		0		25.26760563		1
+
+128) 25		0.1082251082		1.138291139		0.8
+
+129) 42		0.08536585366		110.8277293		0.6666666667
+
+130) 17		0.04857142857		4.138293541		0.4285714286
+
+131) 27		0.03128621089		83.25958694		1
+
+132) 12		0.3157894737		54.95366082		0.3333333333
+
+133) 0		0		121.7297026		1
+
+134) 12		0.02307692308		75.6232687		1
+
+135) 45		0.06258692629		49.97825917		1
+
+136) 30		0.05309734513		85.21004686		1
+
+137) 2		0.002564102564		106.1477643		0.6
+
+138) 48		0.08664259928		2.512082123		0.8
+
+139) 61		0.6421052632		85.21988697		0.8
+
+140) 30		0.04076086957		92.72021687		1
+
+141) 63		0.2368421053		69.32302126		0.8333333333
+
+142) 0		0		2.114285714		1
+
+143) 0		0		43.20737168		1
+
+144) 0		0		38.62183099		1
+
+145) 0		0		38.1686747		1
+
+146) 0		0		66.50207469		1
+
+147) 36		0.5		33.66730695		1
+
+148) 57		0.05810397554		10.98677912		0.8
+
+149) 0		0		118.7195122		1
+
+150) 26		0.02683178535		38.50013559		1
+
+151) 10		0.02666666667		73.97520481		0.4444444444
+
+152) 14		0.02124430956		123.3722256		0.4444444444
+
+153) 0		0		4.846237337		1
+
+154) 36		0.04609475032		23.83522661		1
+
+155) 0		0		9.263157895		1
+
+156) 0		0		112.2531726		0.4444444444
+
+157) 10		0.02207505519		105.5954749		1
+
+158) 2		0.003816793893		70.50648339		0.4545454545
+
+159) 9		0.01914893617		5.831453601		1
+
+160) 0		0		78.38924051		1
+
+161) 26		0.1477272727		49.96634507		0.4285714286
+
+162) 40		0.05633802817		112.2402225		0.8
+
+163) 2		0.00299850075		23.07160152		0.75
+
+164) 0		0		112.5373134		1
+
+165) 13		0.01897810219		101.0885875		0.5
+
+166) 16		0.02909090909		61.27906486		1
+
+167) 0		0		62.34375		1
+
+168) 0		0		19.34141791		1
+
+169) 17		0.06007067138		118.3802344		0.5
+
+170) 47		2.473684211		16.76037224		1
+
+171) 15		0.025		46.4910233		1
+
+172) 12		0.12		120.8756684		0.8333333333
+
+173) 16		4		19.90018519		0.8
+
+174) 24		0.04033613445		11.9628675		1
+
+175) 35		0.03867403315		91.02820683		1
+
+176) 4		0.0064		107.3454999		0.4
+
+177) 0		0		0		0
+
+178) 7		0.007936507937		20.61121359		0.8
+
+179) 29		0.04940374787		22.41634433		0.7142857143
+
+180) 20		0.1492537313		41.40544881		1
+
+181) 2		0.002166847237		150.8868538		0.6666666667
+
+182) 0		0		2.045234249		1
+
+183) 13		0.03225806452		51.03622854		0.8
+
+184) 28		0.21875		62.42832015		0.8333333333
+
+185) 0		0		79.81132075		0.75
+
+186) 11		0.088		103.2421378		0.8
+
+187) 0		0		21.23081395		1
+
+188) 65		0.3611111111		108.2805723		0.8
+
+189) 5		0.02083333333		16.63023484		0.8
+
+190) 34		0.126394052		113.6416873		0.625
+
+191) 26		0.03350515464		26.68031999		0.6666666667
+
+192) 47		0.661971831		54.85181532		1
+
+193) 0		0		0		0
+
+194) 0		0		8.449799197		1
+
+195) 28		0.03513174404		50.28809052		1
+
+196) 11		0.01375		126.4886382		0.6666666667
+
+197) 5		0.009671179884		72.20217173		0.75
+
+198) 14		0.01709401709		35.49786286		1
+
+199) 0		0		109.4350142		0.6666666667
+
+200) 39		0.4239130435		48.73375594		1
+
+201) 8		0.01075268817		118.4519214		0.6
+
+202) 0		0		0		0
+
+203) 15		0.03768844221		123.0479653		0.75
+
+204) 12		0.02169981917		106.8594557		1
+
+205) 45		0.141955836		32.3116863		1
+
+206) 16		0.02253521127		115.6338865		1
+
+207) 0		0		50.01778243		1
+
+208) 31		0.07159353349		18.60493993		0.75
+
+209) 8		0.01054018445		103.2157522		0.8333333333
+
+210) 8		0.05633802817		117.5047011		0.75
+
+211) 31		0.04851330203		91.46276726		1
+
+212) 19		0.02280912365		28.69961117		0.4285714286
+
+213) 0		0		115.5126883		1
+
+214) 7		0.008293838863		107.4976749		0.8
+
+215) 0		0		0		0
+
+216) 47		0.1012931034		111.1904062		0.25
+
+217) 13		0.04234527687		6.935761703		0.75
+
+218) 0		0		7.247483221		1
+
+219) 0		0		83.06429734		0.6666666667
+
+220) 2		0.003025718608		20.33316808		0.8
+
+221) 7		0.09722222222		34.61811253		0.75
+
+222) 0		0		59.23447987		1
+
+223) 14		0.3684210526		88.95755566		0.8
+
+224) 46		0.06990881459		39.76994255		1
+
+225) 2		0.007067137809		52.56717258		1
+
+226) 0		0		48.33384997		1
+
+227) 15		0.02467105263		87.30943744		1
+
+228) 24		0.02718006795		122.6940044		0.375
+
+229) 2		0.002024291498		89.4175136		0.6
+
+230) 9		0.05696202532		44.01061255		0.3333333333
+
+231) 16		0.0981595092		85.53660979		0.2
+
+232) 24		0.1297297297		4.180819872		1
+
+233) 32		1.103448276		38.39109926		1
+
+234) 0		0		75.8143214		0.3333333333
+
+235) 5		0.00772797527		114.5932825		0.75
+
+236) 0		0		14.79307432		1
+
+237) 12		0.03418803419		108.159047		0.75
+
+238) 17		0.01756198347		72.03819985		0.7142857143
+
+239) 17		0.02096177559		1.257042489		0.4444444444
+
+240) 0		0		64.82743474		1
+
+241) 8		0.01805869074		0.3765463271		0.75
+
+242) 0		0		5.275862069		1
+
+243) 0		0		82.03519811		0.5714285714
+
+244) 13		0.03682719547		95.96780656		0.75
+
+245) 19		0.04947916667		63.9993123		1
+
+246) 5		0.06097560976		107.6030775		0.75
+
+247) 23		0.03137789905		55.37561839		0.6666666667
+
+248) 2		0.008695652174		96.76169601		1
+
+249) 69		0.07491856678		70.85140074		1
+
+250) 37		0.05308464849		85.44318226		1
+
+251) 6		0.006269592476		50.13990018		0.6666666667
+
+252) 53		0.08091603053		17.51443939		0.8333333333
+
+253) 0		0		19.38118812		0.8
+
+254) 5		0.01231527094		33.93418079		1
+
+255) 9		0.06569343066		88.17993557		0.8
+
+256) 38		0.1376811594		119.9947359		0.6666666667
+
+257) 15		0.1764705882		63.43024456		0.6
+
+258) 0		0		120.7058824		1
+
+259) 0		0		40.68611111		1
+
+260) 38		0.8444444444		103.3042435		1
+
+261) 0		0		0		0
+
+262) 0		0		42.33193687		1
+
+263) 18		0.09677419355		36.81322268		0.75
+
+264) 0		0		76.86280138		0.8
+
+265) 0		0		15.59079498		0.6666666667
+
+266) 2		0.003676470588		7.518269497		0.8333333333
+
+267) 14		0.0197740113		49.77139688		0.6666666667
+
+268) 23		0.03527607362		80.51609954		0.6666666667
+
+269) 0		0		0		0
+
+270) 13		0.1287128713		116.8181628		1
+
+271) 0		0		21.52304845		1
+
+272) 9		1.8		16.71574744		0.6666666667
+
+273) 10		0.01479289941		75.40997584		0.75
+
+274) 0		0		77.48277005		0.75
+
+275) 22		0.08661417323		39.28527785		1
+
+276) 17		0.02053140097		15.57645034		1
+
+277) 13		0.04166666667		123.1733556		0.75
+
+278) 25		0.03259452412		71.39526456		0.8333333333
+
+279) 0		0		40.734375		1
+
+280) 5		0.0303030303		90.47731447		0.8
+
+281) 25		0.09225092251		75.167778		1
+
+282) 0		0		26.76274788		0.8
+
+283) 16		0.02909090909		41.72987058		1
+
+284) 42		0.2333333333		97.51358226		0.4
+
+285) 16		0.01809954751		104.8101297		1
+
+286) 0		0		89.09039162		1
+
+287) 2		0.02564102564		120.10078		1
+
+288) 23		0.07012195122		39.30760152		1
+
+289) 0		0		123.5561594		1
+
+290) 13		0.01771117166		69.48385232		0.8
+
+291) 11		0.03038674033		70.70527592		0.75
+
+292) 69		0.2421052632		64.33999548		0.8333333333
+
+293) 10		0.01225490196		28.01596043		0.8
+
+294) 39		0.1130434783		82.0077931		1
+
+295) 18		0.02083333333		74.48440366		0.3333333333
+
+296) 2		0.002574002574		107.998454		0.6666666667
+
+297) 13		0.03672316384		102.7067423		0.5
+
+298) 5		0.00772797527		14.57225656		0.6666666667
+
+299) 15		0.03865979381		56.07827657		0.75
+
+300) 14		0.02947368421		38.12939372		0.8333333333
+
+301) 17		0.02828618968		109.9054161		0.8333333333
+
+302) 0		0		85.88570205		1
+
+303) 11		0.02131782946		16.61483039		0.5714285714
+
+304) 0		0		53.17120443		0.8333333333
+
+305) 9		0.009483667018		11.91460334		0.75
+
+306) 35		0.04847645429		10.42502248		0.8
+
+307) 11		0.01551480959		38.33294527		0.8
+
+308) 18		0.02377807133		70.02334385		0.75
+
+309) 19		0.02909647779		36.65280054		1
+
+310) 0		0		116.0390026		1
+
+311) 5		0.005040322581		105.513969		0.8
+
+312) 0		0		3.472222222		1
+
+313) 52		0.06183115339		115.0214569		0.8
+
+314) 13		0.01604938272		72.90542408		0.5
+
+315) 0		0		77.6659919		0.8
+
+316) 27		0.1646341463		71.98606984		0.5
+
+317) 0		0		0		0
+
+318) 27		0.04485049834		10.96820213		0.75
+
+319) 9		0.01682242991		72.28109103		0.8
+
+320) 9		0.01034482759		90.80252372		0.7142857143
+
+321) 28		0.03271028037		106.1063404		1
+
+322) 27		0.07012987013		45.17014907		0.4285714286
+
+323) 0		0		100.3508772		1
+
+324) 11		0.01484480432		84.8695869		0.25
+
+325) 7		0.01102362205		10.29411591		0.8333333333
+
+326) 0		0		29.54277664		1
+
+327) 37		0.05692307692		2.63066109		0.625
+
+328) 0		0		66.1056338		1
+
+329) 22		0.02591283863		71.21875409		1
+
+330) 45		0.09698275862		32.63864492		0.375
+
+331) 6		0.006578947368		40.24433619		0.8
+
+332) 4		0.01226993865		51.72481319		0.7142857143
+
+333) 0		0		80.06641561		0.375
+
+334) 67		0.1283524904		39.876619		0.8
+
+335) 0		0		101.175		1
+
+336) 41		0.1798245614		121.4011074		1
+
+337) 0		0		21.62885274		1
+
+338) 13		0.1625		105.9435691		0.6666666667
+
+339) 27		0.18		54.45749103		0.3333333333
+
+340) 0		0		68.64256866		0.6666666667
+
+341) 14		0.03804347826		129.031973		1
+
+342) 0		0		51.87841191		0.6666666667
+
+343) 13		0.09352517986		87.88488725		0.5555555556
+
+344) 10		0.1666666667		124.1626846		0.5714285714
+
+345) 0		0		46.62042334		0.3333333333
+
+346) 27		0.0447761194		106.5395053		1
+
+347) 58		0.06815511163		20.28809774		1
+
+348) 50		0.110864745		61.14918504		0.4
+
+349) 6		0.01796407186		104.3525425		1
+
+350) 12		0.1558441558		15.96860453		1
+
+351) 9		0.01060070671		91.46395325		1
+
+352) 12		0.0251572327		15.04041206		0.5
+
+353) 7		0.01052631579		2.661037675		0.8
+
+354) 13		0.01400862069		121.4443054		1
+
+355) 0		0		77.61910774		1
+
+356) 0		0		112.7379808		1
+
+357) 34		0.03828828829		41.79882266		0.3636363636
+
+358) 0		0		33.59248992		1
+
+359) 0		0		0		0
+
+360) 0		0		40.17788462		1
+
+361) 0		0		0		0.75
+
+362) 0		0		74.25912956		0.4444444444
+
+363) 13		0.05078125		107.9391813		0.4166666667
+
+364) 10		0.01006036217		107.8032837		0.75
+
+365) 0		0		55.25352495		1
+
+366) 73		0.1926121372		60.39482959		1
+
+367) 0		0		84.63541667		1
+
+368) 39		0.1171171171		34.22208767		1
+
+369) 61		0.1164122137		72.54597608		1
+
+370) 0		0		102.8309316		1
+
+371) 0		0		86.07525253		1
+
+372) 13		0.01470588235		29.05696033		0.75
+
+373) 6		0.01268498943		46.23336031		0.5714285714
+
+374) 83		0.1051964512		108.4470857		0.6666666667
+
+375) 0		0		97.05245902		1
+
+376) 75		0.2032520325		75.88297147		1
+
+377) 13		0.02070063694		53.15446816		1
+
+378) 36		0.04528301887		83.55036931		1
+
+379) 65		0.07166482911		78.78198875		1
+
+380) 0		0		77.94230769		1
+
+381) 31		0.2952380952		19.57357443		0.75
+
+382) 0		0		92.18417553		1
+
+383) 0		0		55.52		1
+
+384) 0		0		111.6546091		1
+
+385) 0		0		0		0
+
+386) 0		0		86.58137774		1
+
+387) 0		0		60.728056		1
+
+388) 5		0.008680555556		62.90627649		0.8
+
+389) 0		0		5.151349614		1
+
+390) 0		0		72.63041971		0.8
+
+391) 46		0.08487084871		16.89121126		1
+
+392) 27		0.08970099668		77.15279637		0.7142857143
+
+393) 63		0.1503579952		70.62942908		1
+
+394) 0		0		120.5759346		1
+
+395) 19		0.05413105413		79.80425829		1
+
+396) 25		0.1020408163		106.6279368		1
+
+397) 37		0.268115942		14.99247372		0.5
+
+398) 7		0.01105845182		57.98409985		1
+
+399) 0		0		33.54369628		1
+
+400) 32		0.05144694534		54.70364774		1
+
+401) 29		0.03302961276		54.31989352		1
+
+402) 0		0		47.66399721		1
+
+403) 5		0.01113585746		121.975479		0.8
+
+404) 0		0		115.4003906		1
+
+405) 13		0.03611111111		41.46462019		0.75
+
+406) 0		0		12.52931596		1
+
+407) 0		0		22.95495495		1
+
+408) 12		0.04511278195		15.80978387		0.4285714286
+
+409) 15		0.09433962264		40.42237411		0.6666666667
+
+410) 10		0.01051524711		119.9982783		0.8
+
+411) 17		17		29.56168252		0.6666666667
+
+412) 40		0.058910162		3.782143962		1
+
+413) 0		0		115.5460852		1
+
+414) 0		0		30.38760897		1
+
+415) 36		0.06030150754		37.50628338		1
+
+416) 0		0		91.94807692		1
+
+417) 11		0.01748807631		81.58812161		1
+
+418) 2		0.002207505519		69.51910453		0.6666666667
+
+419) 30		0.1006711409		103.1841562		0.4285714286
+
+420) 31		0.03884711779		76.3874936		0.8
+
+421) 25		0.03457814661		42.73825074		1
+
+422) 0		0		26.79780946		0.8
+
+423) 18		0.02105263158		31.61553003		1
+
+424) 0		0		56.64031943		1
+
+425) 85		0.2328767123		10.52627923		1
+
+426) 10		0.01179245283		2.13087571		0.8333333333
+
+427) 11		0.2682926829		22.83106119		1
+
+428) 37		0.5285714286		106.8363246		1
+
+429) 33		0.08188585608		4.573433046		1
+
+430) 0		0		45.92881072		1
+
+431) 0		0		79.45856354		1
+
+432) 0		0		37.51171875		1
+
+433) 15		0.0487012987		82.57408796		1
+
+434) 0		0		64.2955379		1
+
+435) 15		0.05376344086		76.85698305		0.8333333333
+
+436) 35		0.07128309572		118.271874		1
+
+437) 4		0.02247191011		101.8183748		0.6666666667
+
+438) 0		0		114.1327951		1
+
+439) 44		0.05479452055		15.77360746		1
+
+440) 6		0.1935483871		125.4084244		0.25
+
+441) 25		0.2840909091		107.499496		1
+
+442) 0		0		86.58608987		1
+
+443) 0		0		120.6809567		1
+
+444) 0		0		26.25883392		1
+
+445) 5		0.03816793893		86.24125667		0.375
+
+446) 6		0.01923076923		108.0137267		1
+
+447) 45		0.4736842105		37.13388327		0.4285714286
+
+448) 0		0		116.9274194		1
+
+449) 9		0.1914893617		68.58815401		1
+
+450) 30		0.03012048193		51.89957745		0.8
+
+451) 0		0		85.71657545		1
+
+452) 13		0.02594810379		40.55581006		0.75
+
+453) 0		0		104.5697761		1
+
+454) 12		0.09756097561		113.3310248		0.6666666667
+
+455) 15		0.0327510917		20.55003802		0.5714285714
+
+456) 13		0.03951367781		50.50457639		0.8333333333
+
+457) 48		0.0741885626		10.03498588		1
+
+458) 15		0.0306122449		17.09418667		0.75
+
+459) 2		0.003766478343		115.7445511		0.75
+
+460) 46		0.09292929293		79.46107587		1
+
+461) 0		0		91.39540658		0.8
+
+462) 0		0		65.44224078		0.75
+
+463) 0		0		85.72038724		1
+
+464) 50		0.06693440428		2.679583121		0.5
+
+465) 39		0.04452054795		3.139530521		1
+
+466) 18		0.03		90.11997991		0.8333333333
+
+467) 11		0.05392156863		95.07919553		0.75
+
+468) 0		0		63.07277835		1
+
+469) 5		0.005133470226		89.01874923		0.5714285714
+
+470) 0		0		109.8257212		1
+
+471) 0		0		118.3709091		1
+
+472) 9		0.009307135471		13.80289847		0.3333333333
+
+473) 0		0		54.51200204		1
+
+474) 37		0.2032967033		120.145276		1
+
+475) 54		0.07605633803		79.04003181		1
+
+476) 2		0.003401360544		128.7460209		1
+
+477) 12		0.0297029703		67.66119288		0.8
+
+478) 0		0		54.72580645		1
+
+479) 0		0		64.81067961		0.75
+
+480) 0		0		60.6408046		1
+
+481) 0		0		0		0
+
+482) 0		0		69.55097087		0.3333333333
+
+483) 11		0.02663438257		15.45780107		0.75
+
+484) 40		0.04624277457		115.3681673		0.6666666667
+
+485) 0		0		75.24613555		1
+
+486) 4		0.0108401084		73.8015332		0.75
+
+487) 31		0.8857142857		31.3283572		1
+
+488) 0		0		8.783867846		0.8
+
+489) 34		0.08607594937		3.273049196		1
+
+490) 16		0.01856148492		65.02213079		0.6666666667
+
+491) 2		0.0253164557		84.34685121		1
+
+492) 18		0.03829787234		32.8337712		1
+
+493) 0		0		0		0
+
+494) 0		0		69.56770833		1
+
+495) 14		0.01985815603		15.03664401		1
+
+496) 39		1.857142857		83.23443294		0.4285714286
+
+497) 0		0		78.95379377		1
+
+498) 6		0.02884615385		122.8117391		0.75
+
+499) 36		0.2236024845		90.59480503		0.8
+
+500) 66		0.07142857143		27.44132211		0.7142857143
+
+AODV error: 0Trust error: 15
+else: 0translate3P3: -20 15 20
+translate3P3: -40 30 40
+translate3P3: -60 45 60
+P1: -20 15 60
+P1: -40 30 60
+P1: -60 45 60
+P1: -80 60 60
+translate1P1: -100 75 100
+P1: -120 90 100
+translate1P1: -140 105 140
+P1: -160 120 140
+P1: -180 135 140
+translate1P1: -200 150 200
+P1: -220 165 200
+P1: -240 180 200
+P1: -260 195 200
+translate1P1: -280 210 280
